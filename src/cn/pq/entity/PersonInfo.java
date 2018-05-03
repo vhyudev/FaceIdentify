@@ -8,7 +8,7 @@ public class PersonInfo {
 	String address;
 	
 	String phone;
-	//这是一次改动
+	//这是一次改动的东西
 	String gender;
 	
 	String name;
